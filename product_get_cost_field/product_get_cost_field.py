@@ -21,7 +21,7 @@
 import logging
 
 from openerp.osv import orm, fields
-import decimal_precision as dp
+from openerp.addons import decimal_precision as dp
 _logger = logging.getLogger(__name__)
 
 
