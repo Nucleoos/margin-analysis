@@ -74,7 +74,7 @@ Contributors
     'test/cost_price_update_by_bom.yml',
     'test/cost_price_empty_phantom_bom.yml',
  ],
- 'installable': False,
+ 'installable': True,
  'auto_install': False,
  'license': 'AGPL-3',
  'application': False}

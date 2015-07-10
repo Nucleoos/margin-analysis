@@ -39,7 +39,7 @@ bom.
 As it is a generic module, you can also setup your own way of computing the
 cost_price for your product.
 
-All our modules to compute margin are based on it, so you'll ba able to use
+All our modules to compute margin are based on it, so you'll be able to use
 them in your own way.
 
 Contributors
@@ -58,7 +58,7 @@ Contributors
  'test': [
     'test/cost_price_update.yml',
  ],
- 'installable': False,
+ 'installable': True,
  'auto_install': False,
  'license': 'AGPL-3',
  'application': False
